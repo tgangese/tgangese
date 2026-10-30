@@ -10,7 +10,7 @@
 
 ---
 
-### 🚀 Featured Projects — AI/ML Focus
+###  Featured Projects — AI/ML Focus
 
 | Project | What it does | What it shows |
 |---|---|---|
@@ -23,7 +23,7 @@
 
 ---
 
-### 🧠 Currently Learning
+###  Currently Learning
 - Data Cleaning & Preprocessing with Pandas/Numpy
 - Embeddings & Vector DBs for RAG
 - Model Evaluation & Business Intelligence
